@@ -1,6 +1,6 @@
 # Detecting_subtle_behavioural_changes
 
-Software use in publication : [link](link)
+Software used in publication : [link](link)
 
 This repo contains three independent projects :
 - maggotuba, a nonlinear dimensionnality reduction tool for larva tracking trajectories and tools to quantify deviations between an experiment and its control
